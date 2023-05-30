@@ -60,7 +60,7 @@ class HomePage extends StatelessWidget {
                             alignment: Alignment.topCenter,
                             child: Image.asset(
                               "assets/images/logo_profile.png",
-                              height: 70,
+                              height: 65,
                             ),
                           )
                         ],
